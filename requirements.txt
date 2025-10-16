@@ -6,3 +6,5 @@ scikit-learn
 beautifulsoup4
 requests
 openai   # if using OpenAI API
+transformers==4.42.2
+
