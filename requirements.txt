@@ -1,22 +1,8 @@
-# Core UI
-streamlit==1.25.0
-
-# Data handling
-pandas==2.3.3
-numpy==2.2.5
-
-# Transformers / AI models
-transformers==4.35.0
-torch==2.1.0
-
-# HuggingFace Hub
-huggingface-hub==0.35.3
-
-# Optional: if using Google Generative AI API
-google-generativeai==0.8.5
-
-# For summarization / NLP
-sentence-transformers==2.2.2
-
-# Utilities (optional but recommended)
-requests==2.31.0
+streamlit==1.26.1
+numpy
+pandas
+matplotlib
+scikit-learn
+beautifulsoup4
+requests
+openai   # if using OpenAI API
